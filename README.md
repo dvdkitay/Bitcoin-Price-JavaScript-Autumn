@@ -1,6 +1,6 @@
 # Bitcoin-Price
 
-(https://raw.githubusercontent.com/dvdkitay/Bitcoin-Price/main/timothy-eberly-yuiJO6bvHi4-unsplash.jpg)
+![Bitcoin-Price-Jpg]https://raw.githubusercontent.com/dvdkitay/Bitcoin-Price/main/timothy-eberly-yuiJO6bvHi4-unsplash.jpg)
 
 <h1>Расширение для Google Chrome</h1>
 
