@@ -1,4 +1,7 @@
 # Bitcoin-Price
+
+![Иллюстрация к проекту](https://github.com/jon/coolproject/raw/master/image/image.png)
+
 <h1>Расширение для Google Chrome</h1>
 
         Получения цены Bitcoin в USD и EUR
