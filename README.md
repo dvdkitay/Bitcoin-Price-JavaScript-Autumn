@@ -1,6 +1,6 @@
 # Bitcoin-Price
 
-![Иллюстрация к проекту](https://github.com/jon/coolproject/raw/master/image/image.png)
+![Иллюстрация к проекту](https://raw.githubusercontent.com/dvdkitay/Bitcoin-Price/main/timothy-eberly-yuiJO6bvHi4-unsplash.jpg)
 
 <h1>Расширение для Google Chrome</h1>
 
