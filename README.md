@@ -1,4 +1,4 @@
-# Bitcoin-Price
+# Bitcoin-Price-JavaScript
 
 ![Bitcoin-Price-Jpg](https://raw.githubusercontent.com/dvdkitay/Bitcoin-Price/main/timothy-eberly-yuiJO6bvHi4-unsplash.jpg)
 
